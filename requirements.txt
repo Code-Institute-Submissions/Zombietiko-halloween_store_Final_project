@@ -9,6 +9,6 @@ Pillow==8.0.1
 psycopg2-binary==2.8.6
 python-settings==0.2.2
 pytz==2020.1
-sqlparse==0.4.1
+sqlparse==0.4.2
 stripe==2.55.0
 whitenoise==5.2.0
